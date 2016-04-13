@@ -1,0 +1,606 @@
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+19   [main] INFO  MapDBPersistentStore  - Starting with fresh [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+275  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+552  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+557  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+15321 [Thread-1] INFO  Server  - Server stopping...
+15532 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+15533 [Thread-1] INFO  NettyAcceptor  - Bytes read: 0, bytes wrote: 0
+15562 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+21   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+219  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+550  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+554  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+1    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+16   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+192  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+479  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+485  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+24099 [Thread-1] INFO  Server  - Server stopping...
+24311 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+24312 [Thread-1] INFO  NettyAcceptor  - Bytes read: 0, bytes wrote: 0
+24314 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+12   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+152  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+390  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+395  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+206645 [nioEventLoopGroup-3-1] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (7) != expected (0)
+206647 [nioEventLoopGroup-3-2] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (7) != expected (0)
+206650 [nioEventLoopGroup-3-3] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (7) != expected (0)
+206652 [nioEventLoopGroup-3-1] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (5) != expected (0)
+206652 [nioEventLoopGroup-3-3] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (5) != expected (0)
+206652 [nioEventLoopGroup-3-2] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (5) != expected (0)
+206860 [nioEventLoopGroup-3-4] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (7) != expected (0)
+206861 [nioEventLoopGroup-3-4] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (5) != expected (0)
+211969 [nioEventLoopGroup-3-5] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (7) != expected (0)
+211970 [nioEventLoopGroup-3-5] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (5) != expected (0)
+241988 [nioEventLoopGroup-3-6] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (7) != expected (0)
+241989 [nioEventLoopGroup-3-6] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (5) != expected (0)
+302005 [nioEventLoopGroup-3-7] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (7) != expected (0)
+302006 [nioEventLoopGroup-3-7] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (5) != expected (0)
+376493 [Thread-1] INFO  Server  - Server stopping...
+376705 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+376705 [Thread-1] INFO  NettyAcceptor  - Bytes read: 8376, bytes wrote: 0
+376707 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+156  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+401  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+406  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+535607 [Thread-1] INFO  Server  - Server stopping...
+535820 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 4
+535820 [Thread-1] INFO  NettyAcceptor  - Bytes read: 1463, bytes wrote: 712
+535823 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+172  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+388  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+392  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+244602 [nioEventLoopGroup-3-1] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (7) != expected (0)
+244618 [nioEventLoopGroup-3-1] WARN  NettyMQTTHandler  - Error decoding a packet, probably a bad formatted packet, message: Received a message with fixed header flags (5) != expected (0)
+276419 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - Create persistent session for clientID <123>
+276447 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - Connected client ID <123> with clean session false
+276448 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - No stored messages for client <123>
+276448 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - CONNECT processed
+319190 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <123> on topic <Sup> with QoS MOST_ONE
+611793 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <123> on topic <Sup2> with QoS MOST_ONE
+655968 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <123> on topic <Sup3> with QoS MOST_ONE
+715012 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <123> on topic <SUP> with QoS MOST_ONE
+805700 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <123> on topic <sdfs> with QoS MOST_ONE
+830501 [Thread-1] INFO  Server  - Server stopping...
+830711 [Thread-1] INFO  NettyAcceptor  - Msg read: 61, msg wrote: 56
+830712 [Thread-1] INFO  NettyAcceptor  - Bytes read: 1450, bytes wrote: 14222
+830713 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+167  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+413  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+419  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+12028 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <123> with clean session false
+12029 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - No stored messages for client <123>
+12029 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+42190 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <123> on topic <TestTopic> with QoS MOST_ONE
+64843803 [Thread-1] INFO  Server  - Server stopping...
+64844058 [Thread-1] INFO  NettyAcceptor  - Msg read: 190, msg wrote: 188
+64844061 [Thread-1] INFO  NettyAcceptor  - Bytes read: 684, bytes wrote: 71622
+64844066 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+17   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+338  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+646  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+652  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+34793 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <123> with clean session false
+34793 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - No stored messages for client <123>
+34794 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+100366 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <123> on topic <Friday> with QoS MOST_ONE
+127123 [Thread-1] INFO  Server  - Server stopping...
+127330 [Thread-1] INFO  NettyAcceptor  - Msg read: 11, msg wrote: 10
+127331 [Thread-1] INFO  NettyAcceptor  - Bytes read: 49, bytes wrote: 2538
+127332 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+14   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+201  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+482  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+486  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+2772 [Thread-1] INFO  Server  - Server stopping...
+2985 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+2986 [Thread-1] INFO  NettyAcceptor  - Bytes read: 0, bytes wrote: 0
+2997 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+16   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+239  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+497  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+502  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+9242 [Thread-1] INFO  Server  - Server stopping...
+9448 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+9450 [Thread-1] INFO  NettyAcceptor  - Bytes read: 0, bytes wrote: 0
+9453 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+10   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+157  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+377  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+381  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+382  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+382  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+382  [main] WARN  DefaultMoquetteSslContextCreator  - File /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks doesn't exists
+494  [main] INFO  NettyAcceptor  - Starting SSL on port 8883
+494  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
+495  [main] INFO  NettyAcceptor  - SSL is disabled
+11321 [Thread-1] INFO  Server  - Server stopping...
+11530 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+11531 [Thread-1] INFO  NettyAcceptor  - Bytes read: 0, bytes wrote: 0
+11543 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+10   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+161  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+396  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+402  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+403  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+403  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+404  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+536  [main] INFO  NettyAcceptor  - Starting SSL on port 8883
+537  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
+537  [main] INFO  NettyAcceptor  - SSL is disabled
+112813 [nioEventLoopGroup-3-1] ERROR NettyMQTTHandler  - Ugly error on networking
+io.netty.handler.ssl.NotSslRecordException: not an SSL/TLS record: fff4fffd06
+	at io.netty.handler.ssl.SslHandler.decode(SslHandler.java:980)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:360)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:244)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.moquette.server.netty.metrics.BytesMetricsHandler.channelRead(BytesMetricsHandler.java:47)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:846)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:745)
+478374 [nioEventLoopGroup-3-2] ERROR NettyMQTTHandler  - Ugly error on networking
+io.netty.handler.ssl.NotSslRecordException: not an SSL/TLS record: 101100044d5154540402003c00057061686f38
+	at io.netty.handler.ssl.SslHandler.decode(SslHandler.java:980)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:360)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:244)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.moquette.server.netty.metrics.BytesMetricsHandler.channelRead(BytesMetricsHandler.java:47)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:846)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:745)
+478384 [nioEventLoopGroup-3-3] ERROR NettyMQTTHandler  - Ugly error on networking
+io.netty.handler.ssl.NotSslRecordException: not an SSL/TLS record: 101300064d51497364700302003c00057061686f38
+	at io.netty.handler.ssl.SslHandler.decode(SslHandler.java:980)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:360)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:244)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.moquette.server.netty.metrics.BytesMetricsHandler.channelRead(BytesMetricsHandler.java:47)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:846)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:745)
+487795 [nioEventLoopGroup-3-4] INFO  ProtocolProcessor  - Create persistent session for clientID <paho8>
+487808 [nioEventLoopGroup-3-4] INFO  ClientSession  - cleaning old saved subscriptions for client <paho8>
+487820 [nioEventLoopGroup-3-4] INFO  ProtocolProcessor  - Connected client ID <paho8> with clean session true
+487820 [nioEventLoopGroup-3-4] INFO  ProtocolProcessor  - CONNECT processed
+504160 [nioEventLoopGroup-3-4] INFO  ProtocolProcessor  - PUBLISH from clientID <paho8> on topic <test> with QoS MOST_ONE
+551662 [nioEventLoopGroup-3-4] INFO  ProtocolProcessor  - PUBLISH from clientID <paho8> on topic <test> with QoS MOST_ONE
+563781 [nioEventLoopGroup-3-4] INFO  ProtocolProcessor  - DISCONNECT client <paho8> with clean session true
+563781 [nioEventLoopGroup-3-4] INFO  ClientSession  - cleaning old saved subscriptions for client <paho8>
+563783 [nioEventLoopGroup-3-4] INFO  ProtocolProcessor  - DISCONNECT client <paho8> finished
+572639 [nioEventLoopGroup-3-5] ERROR NettyMQTTHandler  - Ugly error on networking
+io.netty.handler.codec.DecoderException: javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:391)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:244)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.moquette.server.netty.metrics.BytesMetricsHandler.channelRead(BytesMetricsHandler.java:47)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:846)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:208)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1666)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1634)
+	at sun.security.ssl.SSLEngineImpl.recvAlert(SSLEngineImpl.java:1800)
+	at sun.security.ssl.SSLEngineImpl.readRecord(SSLEngineImpl.java:1083)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:907)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:781)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at io.netty.handler.ssl.SslHandler.unwrap(SslHandler.java:1138)
+	at io.netty.handler.ssl.SslHandler.unwrap(SslHandler.java:1028)
+	at io.netty.handler.ssl.SslHandler.decode(SslHandler.java:968)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:360)
+	... 21 more
+572681 [nioEventLoopGroup-3-6] ERROR NettyMQTTHandler  - Ugly error on networking
+io.netty.handler.codec.DecoderException: javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:391)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:244)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.moquette.server.netty.metrics.BytesMetricsHandler.channelRead(BytesMetricsHandler.java:47)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:846)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:208)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1666)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1634)
+	at sun.security.ssl.SSLEngineImpl.recvAlert(SSLEngineImpl.java:1800)
+	at sun.security.ssl.SSLEngineImpl.readRecord(SSLEngineImpl.java:1083)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:907)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:781)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at io.netty.handler.ssl.SslHandler.unwrap(SslHandler.java:1138)
+	at io.netty.handler.ssl.SslHandler.unwrap(SslHandler.java:1028)
+	at io.netty.handler.ssl.SslHandler.decode(SslHandler.java:968)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:360)
+	... 21 more
+726650 [Thread-1] INFO  Server  - Server stopping...
+726862 [Thread-1] INFO  NettyAcceptor  - Msg read: 10, msg wrote: 4
+726863 [Thread-1] INFO  NettyAcceptor  - Bytes read: 1565, bytes wrote: 94498
+726864 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+159  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+390  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+394  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+395  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+395  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+395  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+525  [main] INFO  NettyAcceptor  - Starting SSL on port 8883
+525  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
+526  [main] INFO  NettyAcceptor  - SSL is disabled
+327867 [nioEventLoopGroup-3-1] ERROR NettyMQTTHandler  - Ugly error on networking
+io.netty.handler.codec.DecoderException: javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:391)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:244)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.moquette.server.netty.metrics.BytesMetricsHandler.channelRead(BytesMetricsHandler.java:47)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:846)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:208)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1666)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1634)
+	at sun.security.ssl.SSLEngineImpl.recvAlert(SSLEngineImpl.java:1800)
+	at sun.security.ssl.SSLEngineImpl.readRecord(SSLEngineImpl.java:1083)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:907)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:781)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at io.netty.handler.ssl.SslHandler.unwrap(SslHandler.java:1138)
+	at io.netty.handler.ssl.SslHandler.unwrap(SslHandler.java:1028)
+	at io.netty.handler.ssl.SslHandler.decode(SslHandler.java:968)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:360)
+	... 21 more
+327927 [nioEventLoopGroup-3-2] ERROR NettyMQTTHandler  - Ugly error on networking
+io.netty.handler.codec.DecoderException: javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:391)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:244)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.moquette.server.netty.metrics.BytesMetricsHandler.channelRead(BytesMetricsHandler.java:47)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:846)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:208)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1666)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1634)
+	at sun.security.ssl.SSLEngineImpl.recvAlert(SSLEngineImpl.java:1800)
+	at sun.security.ssl.SSLEngineImpl.readRecord(SSLEngineImpl.java:1083)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:907)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:781)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at io.netty.handler.ssl.SslHandler.unwrap(SslHandler.java:1138)
+	at io.netty.handler.ssl.SslHandler.unwrap(SslHandler.java:1028)
+	at io.netty.handler.ssl.SslHandler.decode(SslHandler.java:968)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:360)
+	... 21 more
+600271 [Thread-1] INFO  Server  - Server stopping...
+600480 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+600481 [Thread-1] INFO  NettyAcceptor  - Bytes read: 1314, bytes wrote: 93486
+600482 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+10   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+153  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+373  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+377  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+65039 [Thread-1] INFO  Server  - Server stopping...
+65246 [Thread-1] INFO  NettyAcceptor  - Msg read: 8, msg wrote: 8
+65247 [Thread-1] INFO  NettyAcceptor  - Bytes read: 432, bytes wrote: 2016
+65250 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+276  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+521  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+525  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+12448 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Create persistent session for clientID <paho817973890318310>
+12464 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <paho817973890318310>
+12474 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <paho817973890318310> with clean session true
+12474 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+15438 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - DISCONNECT client <paho817973890318310> with clean session true
+15438 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <paho817973890318310>
+15444 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - DISCONNECT client <paho817973890318310> finished
+62883 [Thread-1] INFO  Server  - Server stopping...
+63096 [Thread-1] INFO  NettyAcceptor  - Msg read: 4, msg wrote: 2
+63096 [Thread-1] INFO  NettyAcceptor  - Bytes read: 104, bytes wrote: 504
+63098 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+10   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+159  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+378  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+383  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+384  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+384  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+384  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+506  [main] INFO  NettyAcceptor  - Starting SSL on port 8883
+506  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
+506  [main] INFO  NettyAcceptor  - SSL is disabled
+365746 [Thread-1] INFO  Server  - Server stopping...
+365956 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+365957 [Thread-1] INFO  NettyAcceptor  - Bytes read: 0, bytes wrote: 0
+365958 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+10   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+154  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+366  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+370  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+370  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+371  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+371  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+482  [main] INFO  NettyAcceptor  - Starting SSL on port 8883
+482  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
+483  [main] INFO  NettyAcceptor  - SSL is disabled
+7793 [Thread-1] INFO  Server  - Server stopping...
+8007 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+8008 [Thread-1] INFO  NettyAcceptor  - Bytes read: 0, bytes wrote: 0
+8011 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+167  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+439  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+443  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+444  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+444  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+445  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+592  [main] INFO  NettyAcceptor  - Starting SSL on port 8848
+593  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8848
+593  [main] INFO  NettyAcceptor  - SSL is disabled
+22621 [Thread-1] INFO  Server  - Server stopping...
+22829 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+22830 [Thread-1] INFO  NettyAcceptor  - Bytes read: 0, bytes wrote: 0
+22841 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+150  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+426  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+431  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+432  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+433  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+433  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+548  [main] INFO  NettyAcceptor  - Starting SSL on port 8883
+549  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
+549  [main] INFO  NettyAcceptor  - SSL is disabled
+45280 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Create persistent session for clientID <paho821971041292211>
+45293 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <paho821971041292211>
+45310 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <paho821971041292211> with clean session true
+45310 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+54237 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - DISCONNECT client <paho821971041292211> with clean session true
+54238 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <paho821971041292211>
+54243 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - DISCONNECT client <paho821971041292211> finished
+69680 [nioEventLoopGroup-3-4] INFO  ClientSession  - cleaning old saved subscriptions for client <paho821971041292211>
+69682 [nioEventLoopGroup-3-4] INFO  ProtocolProcessor  - Connected client ID <paho821971041292211> with clean session true
+69683 [nioEventLoopGroup-3-4] INFO  ProtocolProcessor  - CONNECT processed
+77127 [nioEventLoopGroup-3-4] INFO  ProtocolProcessor  - DISCONNECT client <paho821971041292211> with clean session true
+77127 [nioEventLoopGroup-3-4] INFO  ClientSession  - cleaning old saved subscriptions for client <paho821971041292211>
+77129 [nioEventLoopGroup-3-4] INFO  ProtocolProcessor  - DISCONNECT client <paho821971041292211> finished
+500402 [nioEventLoopGroup-3-5] INFO  ProtocolProcessor  - Create persistent session for clientID <mqtt-spy>
+500403 [nioEventLoopGroup-3-5] INFO  ClientSession  - cleaning old saved subscriptions for client <mqtt-spy>
+500408 [nioEventLoopGroup-3-5] INFO  ProtocolProcessor  - Connected client ID <mqtt-spy> with clean session true
+500408 [nioEventLoopGroup-3-5] INFO  ProtocolProcessor  - CONNECT processed
+517225 [nioEventLoopGroup-3-5] INFO  ProtocolProcessor  - PUBLISH from clientID <mqtt-spy> on topic </test/> with QoS MOST_ONE
+522058 [nioEventLoopGroup-3-5] INFO  ProtocolProcessor  - PUBLISH from clientID <mqtt-spy> on topic </test/> with QoS MOST_ONE
+535406 [nioEventLoopGroup-3-5] INFO  ProtocolProcessor  - PUBLISH from clientID <mqtt-spy> on topic </tested-spy/> with QoS MOST_ONE
+684202 [nioEventLoopGroup-3-5] INFO  ProtocolProcessor  - PUBLISH from clientID <mqtt-spy> on topic </tested-spy/> with QoS MOST_ONE
+685554 [nioEventLoopGroup-3-5] INFO  ProtocolProcessor  - PUBLISH from clientID <mqtt-spy> on topic </tested-spy/> with QoS MOST_ONE
+799682 [nioEventLoopGroup-3-5] INFO  ProtocolProcessor  - PUBLISH from clientID <mqtt-spy> on topic </tested-spyeff/> with QoS MOST_ONE
+841564 [nioEventLoopGroup-3-5] INFO  ProtocolProcessor  - PUBLISH from clientID <mqtt-spy> on topic </tested-spyeff/> with QoS MOST_ONE
+847772 [nioEventLoopGroup-3-5] INFO  ProtocolProcessor  - PUBLISH from clientID <mqtt-spy> on topic </tested-spyefffffff/> with QoS MOST_ONE
+897016 [Thread-1] INFO  Server  - Server stopping...
+897222 [Thread-1] INFO  NettyAcceptor  - Msg read: 27, msg wrote: 15
+897223 [Thread-1] INFO  NettyAcceptor  - Bytes read: 660, bytes wrote: 3792
+897225 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+166  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+375  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+379  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+379  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+380  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+380  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+493  [main] INFO  NettyAcceptor  - Starting SSL on port 8883
+493  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
+494  [main] INFO  NettyAcceptor  - SSL is disabled
+751493 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Create persistent session for clientID <Brian_211009498>
+751520 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <Brian_211009498>
+751539 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <Brian_211009498> with clean session true
+751542 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+809095 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+939861 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+1158240 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+1193536 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+1796418 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+1919775 [nioEventLoopGroup-3-1] INFO  ClientSession  - <Brian_211009498> subscribed to topicFilter </encrypted-topic/> with QoS 0 - MOST_ONE
+1923968 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+1923969 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - send publish message to <Brian_211009498> on topic </encrypted-topic/>
+1933059 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+1933059 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - send publish message to <Brian_211009498> on topic </encrypted-topic/>
+1995722 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - Create persistent session for clientID <Brian_214004060>
+1995725 [nioEventLoopGroup-3-2] INFO  ClientSession  - cleaning old saved subscriptions for client <Brian_214004060>
+1995730 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - Connected client ID <Brian_214004060> with clean session true
+1995730 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - CONNECT processed
+2033817 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_214004060> on topic </un-encrypted-topic/> with QoS MOST_ONE
+49914400 [Thread-1] INFO  Server  - Server stopping...
+49914610 [Thread-1] INFO  NettyAcceptor  - Msg read: 55, msg wrote: 49
+49914610 [Thread-1] INFO  NettyAcceptor  - Bytes read: 7159, bytes wrote: 1348884
+49914611 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+185  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+406  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+410  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+411  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+411  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+411  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+530  [main] INFO  NettyAcceptor  - Starting SSL on port 8883
+531  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
+531  [main] INFO  NettyAcceptor  - SSL is disabled
+17293 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <Brian_211009498>
+17355 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <Brian_211009498> with clean session true
+17361 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+247991298 [Thread-1] INFO  Server  - Server stopping...
+247991540 [Thread-1] INFO  NettyAcceptor  - Msg read: 72, msg wrote: 72
+247991546 [Thread-1] INFO  NettyAcceptor  - Bytes read: 10866, bytes wrote: 2559056
+247991551 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+18   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+265  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+547  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+551  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+552  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+552  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+553  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+814  [main] INFO  NettyAcceptor  - Starting SSL on port 8883
+814  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
+815  [main] INFO  NettyAcceptor  - SSL is disabled
+14907 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <Brian_211009498>
+14926 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <Brian_211009498> with clean session true
+14929 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+29158 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+94938 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+96991 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+140827 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic <newtopic> with QoS MOST_ONE
+141847 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic <newtopic> with QoS MOST_ONE
+155164 [nioEventLoopGroup-3-1] INFO  ClientSession  - <Brian_211009498> subscribed to topicFilter <newtopic> with QoS 0 - MOST_ONE
+161833 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic <newtopic> with QoS MOST_ONE
+161834 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - send publish message to <Brian_211009498> on topic <newtopic>
+180227 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+204711 [nioEventLoopGroup-3-1] INFO  ClientSession  - <Brian_211009498> subscribed to topicFilter </ecrypted-topic/> with QoS 0 - MOST_ONE
+208666 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+211149 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+220596 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - replying with UnsubAck to MSG ID 12
+226710 [nioEventLoopGroup-3-1] INFO  ClientSession  - <Brian_211009498> subscribed to topicFilter </encrypted-topic/> with QoS 0 - MOST_ONE
+235382 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+235383 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - send publish message to <Brian_211009498> on topic </encrypted-topic/>
+237198 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+237199 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - send publish message to <Brian_211009498> on topic </encrypted-topic/>
+240485 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - PUBLISH from clientID <Brian_211009498> on topic </encrypted-topic/> with QoS MOST_ONE
+240486 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - send publish message to <Brian_211009498> on topic </encrypted-topic/>
+435552 [nioEventLoopGroup-3-2] INFO  ClientSession  - cleaning old saved subscriptions for client <Brian_214004060>
+435560 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - Connected client ID <Brian_214004060> with clean session true
+435560 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - CONNECT processed
+440224 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - DISCONNECT client <Brian_214004060> with clean session true
+440224 [nioEventLoopGroup-3-2] INFO  ClientSession  - cleaning old saved subscriptions for client <Brian_214004060>
+440228 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - DISCONNECT client <Brian_214004060> finished
+550878302 [Thread-1] INFO  Server  - Server stopping...
+550878630 [Thread-1] INFO  NettyAcceptor  - Msg read: 110, msg wrote: 100
+550878631 [Thread-1] INFO  NettyAcceptor  - Bytes read: 16132, bytes wrote: 3435704
+550878644 [Thread-1] INFO  Server  - Server stopped
