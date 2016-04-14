@@ -604,3 +604,31 @@ Caused by: javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
 550878630 [Thread-1] INFO  NettyAcceptor  - Msg read: 110, msg wrote: 100
 550878631 [Thread-1] INFO  NettyAcceptor  - Bytes read: 16132, bytes wrote: 3435704
 550878644 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+24   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+275  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+628  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+633  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+634  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+634  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+634  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+756  [main] ERROR DefaultMoquetteSslContextCreator  - Can't start SSL layer!
+java.io.IOException: Keystore was tampered with, or password was incorrect
+	at sun.security.provider.JavaKeyStore.engineLoad(JavaKeyStore.java:772)
+	at sun.security.provider.JavaKeyStore$JKS.engineLoad(JavaKeyStore.java:55)
+	at java.security.KeyStore.load(KeyStore.java:1433)
+	at io.moquette.server.DefaultMoquetteSslContextCreator.initSSLContext(DefaultMoquetteSslContextCreator.java:76)
+	at io.moquette.server.netty.NettyAcceptor.initialize(NettyAcceptor.java:104)
+	at io.moquette.server.Server.startServer(Server.java:132)
+	at io.moquette.server.Server.startServer(Server.java:110)
+	at io.moquette.server.Server.startServer(Server.java:102)
+	at io.moquette.server.Server.startServer(Server.java:72)
+	at io.moquette.server.Server.main(Server.java:55)
+Caused by: java.security.UnrecoverableKeyException: Password verification failed
+	at sun.security.provider.JavaKeyStore.engineLoad(JavaKeyStore.java:770)
+	... 9 more
+762  [main] ERROR NettyAcceptor  - Can't initialize SSLHandler layer! Exiting, check your configuration of jks
+15347 [Thread-1] INFO  Server  - Server stopping...
+15554 [Thread-1] INFO  NettyAcceptor  - Msg read: 0, msg wrote: 0
+15555 [Thread-1] INFO  NettyAcceptor  - Bytes read: 0, bytes wrote: 0
+15584 [Thread-1] INFO  Server  - Server stopped
