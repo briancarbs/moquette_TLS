@@ -29,7 +29,9 @@ Starting and connecting to the broker...
 ```
 
 
-* To connect to the broker from an Android Virtual Device be sure utilize 10.0.0.2 as this is the address Android Studio binds to your local host. More details on connecting clients, MQQT pub/sub, and android.paho.service [here](http://gottaputthelinkhere.com).
+* To connect to the broker from an Android Virtual Device be sure to utilize 10.0.0.2 as this is the address Android Studio binds to your dev machine's local host. More details on connecting clients, MQTT pub/sub, and org.eclipse.paho.android.service [here](http://gottaputthelinkhere.com).
+
+
 
 
 
