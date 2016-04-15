@@ -45,6 +45,7 @@ import static java.util.Arrays.asList;
         final Server mqttBroker = new Server();
         List<? extends InterceptHandler> userHandlers = asList(new PublisherListener());
         mqttBroker.startServer(classPathConfig, userHandlers);
+
         System.out.println("Broker started press [CTRL+C] to stop");
         //Bind  a shutdown hook
         Runtime.getRuntime().addShutdownHook(new Thread() {
