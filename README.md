@@ -9,8 +9,8 @@ Within /config resides the moquette.conf file where we point moquette to...
 * Keystore location and credentials (utilizing JKS by default)	
 * SSL port (standard seems to be 8883)
 * Authentication by username/pwrd is configured via config/password_file.conf
-  * file should only contain user:sha256hash(password)  
-  * yes that hash below, and all passwords for that matter in the repo are password you'll need that to export the servers cert for your client and for connecting to the secure broker.
+  * File should only contain user:sha256hash(password)  
+  * Yes that hash below, and all passwords for that matter in the repo are password you'll need that to export the servers cert for your client and for connecting to the secure broker.
 ```
 username:5E884898DA28047151D0E56F8DC6292773603D0D6AABBDD62A11EF721D1542D8
 ```
