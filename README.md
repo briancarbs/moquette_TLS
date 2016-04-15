@@ -1,4 +1,4 @@
-#Moquete Broker Utilizing SSL/TLS
+#Moquette Broker Utilizing SSL/TLS
 
 To run a generic unmolested version of the Moquette MQTT Broker download the Moquette distribution tar, untar the archive and run the script 'sh moquette.sh' from /bin.
 This starts an un-encrypted local broker listening on port 1883.
