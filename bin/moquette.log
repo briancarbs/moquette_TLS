@@ -1189,3 +1189,37 @@ Caused by: javax.net.ssl.SSLException: Received fatal alert: certificate_unknown
 178365 [Thread-1] INFO  NettyAcceptor  - Msg read: 16, msg wrote: 16
 178366 [Thread-1] INFO  NettyAcceptor  - Bytes read: 7160, bytes wrote: 1338864
 178368 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+166  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+395  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+399  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+399  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+400  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+400  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+524  [main] INFO  NettyAcceptor  - Starting SSL on port 8883
+524  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
+525  [main] INFO  NettyAcceptor  - SSL is disabled
+62181 [Thread-1] INFO  Server  - Server stopping...
+62389 [Thread-1] INFO  NettyAcceptor  - Msg read: 8, msg wrote: 8
+62390 [Thread-1] INFO  NettyAcceptor  - Bytes read: 3580, bytes wrote: 669432
+62393 [Thread-1] INFO  Server  - Server stopped
+0    [main] INFO  Server  - Persistent store file: /Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb
+11   [main] INFO  MapDBPersistentStore  - Starting with existing [/Users/Brian/Documents/Andium/Task 1/moquette/bin/moquette_store.mapdb] db file
+167  [main] INFO  FileAuthenticator  - Loading password file: /Users/Brian/Documents/Andium/Task 1/moquette/config/password_file.conf
+356  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+361  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
+361  [main] INFO  DefaultMoquetteSslContextCreator  - Starting SSL using keystore at serverkeystore.jks
+362  [main] INFO  DefaultMoquetteSslContextCreator  - jks not found in bundled resources, try on the filesystem
+362  [main] INFO  DefaultMoquetteSslContextCreator  - Using /Users/Brian/Documents/Andium/Task 1/moquette/bin/serverkeystore.jks 
+494  [main] INFO  NettyAcceptor  - Starting SSL on port 8883
+495  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
+496  [main] INFO  NettyAcceptor  - SSL is disabled
+18514 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Create persistent session for clientID <Brian_164047597>
+18526 [nioEventLoopGroup-3-1] INFO  ClientSession  - cleaning old saved subscriptions for client <Brian_164047597>
+18544 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - Connected client ID <Brian_164047597> with clean session true
+18545 [nioEventLoopGroup-3-1] INFO  ProtocolProcessor  - CONNECT processed
+34777 [Thread-1] INFO  Server  - Server stopping...
+34984 [Thread-1] INFO  NettyAcceptor  - Msg read: 1, msg wrote: 1
+34985 [Thread-1] INFO  NettyAcceptor  - Bytes read: 465, bytes wrote: 66216
+34996 [Thread-1] INFO  Server  - Server stopped
