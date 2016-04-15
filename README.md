@@ -38,8 +38,8 @@ All you really need to start...
 ```java
 final IConfig classPathConfig = new ClasspathConfig();   //grab a new config object
 final Server mqttBroker = new Server();                  //and a new broker
-mqttBroker.startServer(classPathConfig);		 //start your server using the associated
-      							 //moquette.conf
+mqttBroker.startServer(classPathConfig);		         //start broker using settings
+      							                         //from moquette.conf
 ``` 
 
 
