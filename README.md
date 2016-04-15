@@ -1,6 +1,6 @@
 #Moquette Broker Utilizing SSL/TLS
 
-To run a generic unmolested version of the Moquette MQTT Broker download the Moquette distribution tar, untar the archive and run the script 'sh moquette.sh' from /bin. This starts an un-encrypted local broker listening on port 1883. Better yet check out the master branch and clone Andrea's [repo]("https://github.com/andsel/moquette"). This purpose of this repo is to display and share a working secured MQTT broker with encrypted coms. Feel free to clone the repo and run the broker from source or embedd in your Maven project following the directions below...
+To run a generic unmolested version of the Moquette MQTT Broker download the Moquette distribution tar, untar the archive and run the script 'sh moquette.sh' from /bin. This starts an un-encrypted local broker listening on port 1883. Better yet check out the master branch and clone Andrea's [repo](https://github.com/andsel/moquette). This purpose of this repo is to display and share a working secured MQTT broker with encrypted coms. Feel free to clone the repo and run the broker from source or embedd in your Maven project following the directions below...
 
 
 ## Docmentation
