@@ -1,7 +1,6 @@
 #Moquette Broker Utilizing SSL/TLS
 
-To run a generic unmolested version of the Moquette MQTT Broker download the Moquette distribution tar, untar the archive and run the script 'sh moquette.sh' from /bin.
-This starts an un-encrypted local broker listening on port 1883.
+To run a generic unmolested version of the Moquette MQTT Broker download the Moquette distribution tar, untar the archive and run the script 'sh moquette.sh' from /bin. This starts an un-encrypted local broker listening on port 1883. Better yet check out the master branch and clone Andrea's [repo]("https://github.com/andsel/moquette"). This purpose of this repo is to display and share a working secured MQTT broker with encrypted coms. Feel free to clone the repo and run the broker from source or embedd in your Maven project following the directions below...
 
 
 ## Docmentation
@@ -10,7 +9,8 @@ Within /config resides the moquette.conf file where we point moquette to...
 * Keystore location and credentials (utilizing JKS by default)	
 * SSL port (standard seems to be 8883)
 * Authentication by username/pwrd is configured via config/password_file.conf
-  * file should only contain user:sha256hash(password)
+  * file should only contain user:sha256hash(password)  
+  * yes that hash below, and all passwords for that matter in the repo are password you'll need that to export the servers cert for your client and for connecting to the secure broker.
 ```
 username:5E884898DA28047151D0E56F8DC6292773603D0D6AABBDD62A11EF721D1542D8
 ```
