@@ -35,7 +35,7 @@ Embedding Moquette and starting the server in Eclipse...
 
 All you really need to start...
 
-```
+```java
 final IConfig classPathConfig = new ClasspathConfig();   //grab a new config object
 final Server mqttBroker = new Server();                  //and a new broker
 mqttBroker.startServer(classPathConfig);		 //start your server using the associated
