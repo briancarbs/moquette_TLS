@@ -28,6 +28,21 @@ Starting and connecting to the broker...
 588  [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8883
 ```
 
+Embedding Moquette and starting the server in Eclipse...
+
+* You can embed Moquette in your project by declearing the dependancies in Maven
+* Or to edit and start from source clone the repo, open embedding_moquette, and compile and run the project from EmbeddedLauncher.java
+
+All you really need to start...
+
+```
+final IConfig classPathConfig = new ClasspathConfig();   //grab a new config object
+final Server mqttBroker = new Server();                  //and a new broker
+mqttBroker.startServer(classPathConfig);		 //start your server using the associated
+      							 //moquette.conf
+``` 
+
+
 
 * To connect to the broker from an Android Virtual Device be sure to utilize 10.0.0.2 as this is the address Android Studio binds to your dev machine's local host. More details on connecting clients, MQTT pub/sub, and org.eclipse.paho.android.service [here](http://gottaputthelinkhere.com).
 
