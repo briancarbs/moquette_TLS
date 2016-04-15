@@ -87,7 +87,7 @@ mqttBroker.startServer(classPathConfig);		         //start broker using settings
 
 
 
-* To connect to the broker from an Android Virtual Device be sure to utilize 10.0.0.2 as this is the address Android Studio binds to your dev machine's local host. More details on connecting clients, MQTT pub/sub, and org.eclipse.paho.android.service [here](http://gottaputthelinkhere.com).
+* To connect to the broker from an Android Virtual Device be sure to utilize 10.0.0.2 as this is the address Android Studio binds to your dev machine's local host. More details on connecting clients, MQTT pub/sub, and org.eclipse.paho.android.service [here](https://github.com/briancarbs/paho_TLS).
 
 
 
